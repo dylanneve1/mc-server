@@ -1,10 +1,1 @@
-groups:
-  default:
-    options:
-      default: true
-    permissions:
-    - modifyworld.*
-  Admin:
-    permissions:
-    - worldedit.*
-schema-version:1
+
