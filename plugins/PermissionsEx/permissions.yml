@@ -17,3 +17,11 @@ users:
   04528891-80d0-42de-821a-4c0cf4a8a40f:
     options:
       name: MadHair567
+  fb55b172-abd4-3fa5-b2b0-ce86d97b4997:
+    options:
+      name: dylanneve1
+    group:
+    - Admin
+  c264feeb-cd71-3fd2-8599-448d88515065:
+    options:
+      name: MadHair567
