@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2019-05-23 11:06:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2019-05-19 17:22:40 +0000"
@@ -296,6 +302,12 @@
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2019-05-19 17:20:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2019-05-23 10:49:14 +0000"
     },
     "done": true
   },
@@ -442,6 +454,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2019-05-19 19:39:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2019-05-23 10:49:14 +0000"
     },
     "done": true
   },
@@ -613,6 +631,12 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_the_recipe": "2019-05-19 17:20:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2019-05-23 10:49:14 +0000"
     },
     "done": true
   },
@@ -799,6 +823,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:spider": "2019-05-19 17:29:02 +0000",
+      "minecraft:stray": "2019-05-23 10:57:58 +0000",
       "minecraft:zombie": "2019-05-19 17:29:26 +0000"
     },
     "done": false
