@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2019-05-23 10:30:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2019-05-19 17:07:43 +0000"
@@ -301,7 +307,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_cod": "2019-05-19 17:27:18 +0000"
+      "cooked_cod": "2019-05-19 17:27:18 +0000",
+      "cooked_chicken": "2019-05-23 10:32:01 +0000",
+      "cooked_salmon": "2019-05-19 19:57:21 +0000"
     },
     "done": false
   },
@@ -356,6 +364,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2019-05-19 17:22:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2019-05-23 10:30:09 +0000"
     },
     "done": true
   },
@@ -461,6 +475,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2019-05-23 10:30:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-05-19 17:24:28 +0000"
@@ -491,9 +511,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2019-05-23 10:30:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2019-05-19 19:41:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2019-05-23 10:30:09 +0000"
     },
     "done": true
   },
@@ -525,7 +557,8 @@
     "criteria": {
       "minecraft:snowy_mountains": "2019-05-18 22:03:29 +0000",
       "minecraft:snowy_tundra": "2019-05-18 22:02:07 +0000",
-      "minecraft:frozen_river": "2019-05-18 22:03:25 +0000"
+      "minecraft:frozen_river": "2019-05-18 22:03:25 +0000",
+      "minecraft:river": "2019-05-23 10:19:23 +0000"
     },
     "done": false
   },
@@ -550,6 +583,18 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2019-05-19 17:24:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2019-05-23 10:30:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2019-05-23 10:30:12 +0000"
     },
     "done": true
   },
@@ -643,6 +688,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2019-05-23 10:30:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2019-05-19 17:09:31 +0000"
@@ -679,6 +730,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2019-05-23 10:30:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2019-05-19 17:22:40 +0000"
@@ -694,6 +751,12 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2019-05-19 19:39:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2019-05-23 10:30:09 +0000"
     },
     "done": true
   },
@@ -746,6 +809,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2019-05-23 10:30:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2019-05-23 10:30:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2019-05-19 17:20:54 +0000"
@@ -767,6 +842,12 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2019-05-19 17:24:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2019-05-23 10:30:09 +0000"
     },
     "done": true
   },
@@ -818,9 +899,21 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2019-05-19 19:57:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2019-05-19 17:20:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2019-05-23 10:30:09 +0000"
     },
     "done": true
   },
@@ -845,6 +938,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2019-05-19 17:24:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2019-05-23 10:30:09 +0000"
     },
     "done": true
   },
@@ -875,6 +974,12 @@
   "minecraft:recipes/decorations/blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-05-19 17:24:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2019-05-23 10:30:09 +0000"
     },
     "done": true
   },
