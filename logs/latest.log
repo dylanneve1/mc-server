@@ -1,6 +1,14 @@
-[15:29:17] [User Authenticator #9/INFO]: UUID of player MadHair567 is 04528891-80d0-42de-821a-4c0cf4a8a40f
-[15:29:18] [Server thread/INFO]: MadHair567[/188.141.0.210:53556] logged in with entity id 148244 at ([world]-262.55321634006333, 78.0, -1061.9468058698474)
-[15:29:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2527ms or 50 ticks behind
-[15:44:53] [Server thread/INFO]: MadHair567 has made the advancement [Fishy Business]
-[16:48:12] [Server thread/INFO]: MadHair567 lost connection: Disconnected
-[16:48:12] [Server thread/INFO]: MadHair567 left the game
+[11:30:19] [Server thread/INFO]: Stopping the server
+[11:30:19] [Server thread/INFO]: Stopping server
+[11:30:19] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
+[11:30:19] [Server thread/INFO]: Saving players
+[11:30:19] [Server thread/INFO]: Saving worlds
+[11:30:19] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[11:30:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:30:19] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[11:30:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:30:19] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[11:30:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:30:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:30:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:30:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
